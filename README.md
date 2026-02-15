@@ -131,3 +131,11 @@ The visualization shows:
 **Wrong connections**:
 - Intersection of lines "may" confuse the program
 - Draw larger nodes
+
+
+## Example
+<p align="center">
+  <img src="_1.png" width="400">
+  <img src="output.png" width="400">
+</p>
+
